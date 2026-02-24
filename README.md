@@ -125,7 +125,7 @@ The diagram below shows how the GPIO pins are connected to the 16 interrupt line
  
 
 ## STM 32 CUBE PROGRAM :
-
+```
 #include "main.h"
 #include"stdio.h"
 #if defined(__GNUC__)
@@ -275,11 +275,7 @@ void assert_failed(uint8_t *file, uint32_t line)
 
 }
 #endif /* USE_FULL_ASSERT */
-
-
-
 ```
-
 
 ## Output screen shots of serial port utility   :
 
