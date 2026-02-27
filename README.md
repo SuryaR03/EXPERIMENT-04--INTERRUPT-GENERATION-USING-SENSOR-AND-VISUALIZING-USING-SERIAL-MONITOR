@@ -279,11 +279,17 @@ void assert_failed(uint8_t *file, uint32_t line)
 
 ## Output screen shots of serial port utility   :
 
+<img width="1916" height="1079" alt="Screenshot 2026-02-27 111347" src="https://github.com/user-attachments/assets/634cd1b8-4d8c-4636-b26c-f87c87026e80" />
 
  
  
  ## Circuit board :
- 
+  INTERRUPT 
+  ![interrupt on](https://github.com/user-attachments/assets/bf27bd6b-bbe3-4d62-a0a1-8da8271753e4)
+
+NO INTERRUPT
+![interrupt of](https://github.com/user-attachments/assets/2d200a8a-1a74-4c0c-97fe-140031ad072b)
+
  
  
 ## Result :
